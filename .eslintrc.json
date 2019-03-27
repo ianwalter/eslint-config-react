@@ -1,0 +1,19 @@
+{
+  "root": true,
+  "parser": "babel-eslint",
+  "extends": [
+    "@ianwalter/eslint-config",
+    "plugin:react/recommended"
+  ],
+  "plugins": [
+    "react"
+  ],
+  "settings": {
+    "react": {
+      "version": "16.8"
+    }
+  },
+  "env": {
+    "browser": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "@ianwalter/eslint-config-react",
+  "description": "Ian's ESLint configuration for React and Preact",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianwalter/eslint-config-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "preset"
+  ],
+  "author": "Ian Walter <public@iankwalter.com> (https://iankwalter.com)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ianwalter/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/ianwalter/eslint-config-react#readme",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "files": [
+    "index.js",
+    ".eslintrc.json"
+  ],
+  "dependencies": {
+    "@ianwalter/eslint-config": "^1.1.1",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.14.1",
+    "eslint-plugin-react": "^7.12.4"
+  },
+  "devDependencies": {
+    "np": "^4.0.2"
+  }
+}
