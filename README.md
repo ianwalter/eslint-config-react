@@ -1,5 +1,5 @@
 # @ianwalter/eslint-config-react
-> Ian's [ESLint][eslintUrl] configuration
+> Ian's ESLint configuration for [React][reactUrl] and [Preact][preactUrl]
 
 [![npm page][npmImage]][npmUrl]
 
@@ -42,6 +42,8 @@ Apache 2.0 with Commons Clause - See [LICENSE][licenseUrl]
 Created by [Ian Walter](https://iankwalter.com)
 
 [eslintUrl]: https://eslint.org/
+[reactUrl]: https://reactjs.org/
+[preactUrl]: https://preactjs.com/
 [npmImage]: https://img.shields.io/npm/v/@ianwalter/eslint-config-react.svg
 [npmUrl]: https://www.npmjs.com/package/@ianwalter/eslint-config-react
 [licenseUrl]: https://github.com/ianwalter/eslint-config-react/blob/master/LICENSE
