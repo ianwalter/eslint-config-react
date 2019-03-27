@@ -22,8 +22,9 @@
     "lint": "eslint index.js"
   },
   "files": [
+    ".eslintrc.json",
     "index.js",
-    ".eslintrc.json"
+    "preact.js"
   ],
   "dependencies": {
     "@ianwalter/eslint-config": "^1.1.1",
