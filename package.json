@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ianwalter/eslint-config-react#readme",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint index.js"
+    "lint": "eslint index.js preact.js"
   },
   "files": [
     ".eslintrc.json",
