@@ -33,6 +33,12 @@ For Preact:
   }
 ```
 
+## Related
+
+* [`@ianwalter/eslint-config`][configUrl] - Ian's ESLint configuration
+* [`@ianwalter/eslint-config-vue`][vueUrl] - Ian's ESLint configuration for
+  Vue.js
+
 ## License
 
 Apache 2.0 with Commons Clause - See [LICENSE][licenseUrl]
@@ -46,4 +52,6 @@ Created by [Ian Walter](https://iankwalter.com)
 [preactUrl]: https://preactjs.com/
 [npmImage]: https://img.shields.io/npm/v/@ianwalter/eslint-config-react.svg
 [npmUrl]: https://www.npmjs.com/package/@ianwalter/eslint-config-react
+[configUrl]: https://github.com/ianwalter/eslint-config
+[vueUrl]: https://github.com/ianwalter/eslint-config-vue
 [licenseUrl]: https://github.com/ianwalter/eslint-config-react/blob/master/LICENSE
