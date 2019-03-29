@@ -17,7 +17,7 @@ In `package.json`, for React:
   "eslintConfig": {
     "root": true,
     "extends": [
-      "@ianwalter/eslint-config-react"
+      "@ianwalter/react"
     ]
   }
 ```
