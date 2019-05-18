@@ -19,8 +19,8 @@
   "homepage": "https://github.com/ianwalter/eslint-config-react#readme",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint index.js preact.js test/test.js",
-    "test": "ava"
+    "lint": "eslint index.js preact.js tests/tests.js",
+    "test": "bff"
   },
   "files": [
     ".eslintrc.json",
@@ -34,8 +34,8 @@
     "eslint-plugin-react": "^7.13.0"
   },
   "devDependencies": {
+    "@ianwalter/bff": "^5.0.0",
     "@ianwalter/renovate-config": "^1.1.0",
-    "ava": "^1.4.1",
     "np": "^5.0.1"
   },
   "renovate": {
