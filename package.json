@@ -34,7 +34,13 @@
     "eslint-plugin-react": "^7.12.4"
   },
   "devDependencies": {
+    "@ianwalter/renovate-config": "^1.1.0",
     "ava": "^1.4.1",
     "np": "^5.0.0"
+  },
+  "renovate": {
+    "extends": [
+      "@ianwalter"
+    ]
   }
 }
