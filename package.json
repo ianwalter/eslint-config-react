@@ -31,7 +31,7 @@
     "@ianwalter/eslint-config": "^1.1.1",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.14.1",
-    "eslint-plugin-react": "^7.12.4"
+    "eslint-plugin-react": "^7.13.0"
   },
   "devDependencies": {
     "@ianwalter/renovate-config": "^1.1.0",
