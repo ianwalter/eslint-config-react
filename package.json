@@ -34,7 +34,7 @@
     "eslint-plugin-react": "^7.14.3"
   },
   "devDependencies": {
-    "@ianwalter/bff": "^6.5.0",
+    "@ianwalter/bff": "^6.5.1",
     "@ianwalter/renovate-config": "^1.2.0",
     "np": "^5.1.0"
   },
