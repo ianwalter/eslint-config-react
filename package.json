@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ianwalter/eslint-config-react#readme",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint index.js preact.js tests/tests.js",
+    "lint": "eslint .",
     "test": "bff"
   },
   "files": [
@@ -28,7 +28,7 @@
     "preact.js"
   ],
   "dependencies": {
-    "@ianwalter/eslint-config": "^2.0.1",
+    "@ianwalter/eslint-config": "^3.1.0",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.14.3"
