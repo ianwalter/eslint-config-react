@@ -3,13 +3,14 @@ const { CLIEngine } = require('eslint')
 
 test('pass', ({ expect }) => {
   const cli = new CLIEngine({ configFile: 'preact.js' })
-  const { results: [pass] } = cli.executeOnFiles(['tests/fixtures/pass.jsx'])
-  expect(pass.errorCount).toBe(0)
+  const file = 'tests/fixtures/pass.jsx'
+  const { results: [pass] } = cli.executeOnFiles([file])
+  expect(pass).toMatchSnapshot({ filePath: expect.stringContaining(file) })
 })
 
 test('fail', ({ expect }) => {
   const cli = new CLIEngine({ configFile: 'preact.js' })
-  const { results: [fail] } = cli.executeOnFiles(['tests/fixtures/fail.jsx'])
-  console.log(fail)
-  expect(fail.errorCount).toBe(6)
+  const file = 'tests/fixtures/fail.jsx'
+  const { results: [fail] } = cli.executeOnFiles([file])
+  expect(fail).toMatchSnapshot({ filePath: expect.stringContaining(file) })
 })
