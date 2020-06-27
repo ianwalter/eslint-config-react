@@ -31,9 +31,9 @@
     "preact.js"
   ],
   "dependencies": {
-    "@ianwalter/eslint-config": "^4.1.0",
+    "@ianwalter/eslint-config": "^5.2.0",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.8.0",
+    "eslint": "^7.3.1",
     "eslint-plugin-react": "^7.20.0"
   },
   "devDependencies": {
