@@ -6,7 +6,7 @@
 ## Installation
 
 ```console
-yarn add @ianwalter/eslint-config-react --dev
+pnpm add @ianwalter/eslint-config-react --save-dev
 ```
 
 ## Usage
