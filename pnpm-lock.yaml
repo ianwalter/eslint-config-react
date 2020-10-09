@@ -5015,4 +5015,4 @@ specifiers:
   '@ianwalter/renovate-config': ^1.4.0
   babel-eslint: ^10.1.0
   eslint-plugin-react: ^7.21.3
-  eslint-plugin-react-hooks: ^4.1.0
+  eslint-plugin-react-hooks: ^4.1.2
