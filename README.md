@@ -54,4 +54,4 @@ Created by [Ian Walter](https://ianwalter.dev)
 [npmUrl]: https://www.npmjs.com/package/@ianwalter/eslint-config-react
 [configUrl]: https://github.com/ianwalter/eslint-config
 [vueUrl]: https://github.com/ianwalter/eslint-config-vue
-[licenseUrl]: https://github.com/ianwalter/eslint-config-react/blob/master/LICENSE
+[licenseUrl]: https://github.com/ianwalter/eslint-config-react/blob/main/LICENSE
