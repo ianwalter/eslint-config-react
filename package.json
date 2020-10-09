@@ -30,6 +30,9 @@
     "index.js",
     "preact.js"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@ianwalter/eslint-config": "^5.4.0",
     "babel-eslint": "^10.1.0",
