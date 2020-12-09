@@ -1,5 +1,11 @@
 # @ianwalter/eslint-config-react
 
+## 4.0.0
+
+### Major Changes
+
+- bf102de: Updating to @ianwalter/eslint-config v6.1.0
+
 ## 3.5.0
 
 ### Minor Changes
