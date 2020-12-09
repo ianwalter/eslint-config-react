@@ -2,9 +2,9 @@
 
 exports[`fail 1`] = `
 Object {
-  "errorCount": 6,
+  "errorCount": 5,
   "filePath": StringContaining "tests/fixtures/fail.jsx",
-  "fixableErrorCount": 5,
+  "fixableErrorCount": 4,
   "fixableWarningCount": 0,
   "messages": Array [
     Object {
@@ -23,24 +23,6 @@ Object {
       "messageId": "wrongQuotes",
       "nodeType": "Literal",
       "ruleId": "quotes",
-      "severity": 2,
-    },
-    Object {
-      "column": 1,
-      "endColumn": 3,
-      "endLine": 5,
-      "fix": Object {
-        "range": Array [
-          48,
-          50,
-        ],
-        "text": "    ",
-      },
-      "line": 5,
-      "message": "Expected indentation of 4 spaces but found 2.",
-      "messageId": "wrongIndentation",
-      "nodeType": "Punctuator",
-      "ruleId": "indent",
       "severity": 2,
     },
     Object {
