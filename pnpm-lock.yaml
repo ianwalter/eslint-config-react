@@ -1,7 +1,7 @@
 dependencies:
   '@ianwalter/eslint-config': 6.2.0
   babel-eslint: 10.1.0
-  eslint-plugin-react: 7.21.5
+  eslint-plugin-react: 7.22.0
   eslint-plugin-react-hooks: 4.2.0
 devDependencies:
   '@changesets/cli': 2.14.1
@@ -2014,7 +2014,7 @@ packages:
       eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0
     resolution:
       integrity: sha512-623WEiZJqxR7VdxFCKLI6d6LLpwJkGPYKODnkH3D7WpOG5KM8yWueBd8TLsNAetEJNF5iJmolaAKO3F8yzyVBQ==
-  /eslint-plugin-react/7.21.5:
+  /eslint-plugin-react/7.22.0:
     dependencies:
       array-includes: 3.1.1
       array.prototype.flatmap: 1.2.3
@@ -2033,7 +2033,7 @@ packages:
     peerDependencies:
       eslint: ^3 || ^4 || ^5 || ^6 || ^7
     resolution:
-      integrity: sha512-8MaEggC2et0wSF6bUeywF7qQ46ER81irOdWS4QWxnnlAEsnzeBevk1sWh7fhpCghPpXb+8Ks7hvaft6L/xsR6g==
+      integrity: sha512-p30tuX3VS+NWv9nQot9xIGAHBXR0+xJVaZriEsHoJrASGCJZDJ8JLNM0YqKqI0AKm6Uxaa1VUHoNEibxRCMQHA==
   /eslint-plugin-standard/4.1.0_eslint@7.19.0:
     dependencies:
       eslint: 7.19.0
@@ -5448,5 +5448,5 @@ specifiers:
   '@ianwalter/release': ^5.0.2
   '@ianwalter/renovate-config': ^1.4.3
   babel-eslint: ^10.1.0
-  eslint-plugin-react: ^7.21.5
+  eslint-plugin-react: ^7.22.0
   eslint-plugin-react-hooks: ^4.2.0
