@@ -1,7 +1,7 @@
 {
   "name": "@ianwalter/eslint-config-react",
   "description": "Ian's ESLint configuration for React and Preact",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ianwalter/eslint-config-react.git"

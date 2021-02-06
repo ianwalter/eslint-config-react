@@ -1,5 +1,12 @@
 # @ianwalter/eslint-config-react
 
+## 4.1.0
+
+### Minor Changes
+
+- 231dcbc: Update dependency @ianwalter/eslint-config to ^6.2.0
+- 6b63d49: Update dependency eslint-plugin-react to ^7.22.0
+
 ## 4.0.0
 
 ### Major Changes
