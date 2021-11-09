@@ -8,13 +8,13 @@ specifiers:
   '@ianwalter/renovate-config': ^1.4.5
   babel-eslint: ^10.1.0
   eslint-plugin-react: ^7.22.0
-  eslint-plugin-react-hooks: ^4.2.0
+  eslint-plugin-react-hooks: ^4.3.0
 
 dependencies:
   '@ianwalter/eslint-config': 6.2.0
   babel-eslint: 10.1.0
   eslint-plugin-react: 7.22.0
-  eslint-plugin-react-hooks: 4.2.0
+  eslint-plugin-react-hooks: 4.3.0
 
 devDependencies:
   '@changesets/cli': 2.17.0
@@ -1939,11 +1939,11 @@ packages:
     engines: {node: '>=6'}
     dev: false
 
-  /eslint-plugin-react-hooks/4.2.0:
-    resolution: {integrity: sha512-623WEiZJqxR7VdxFCKLI6d6LLpwJkGPYKODnkH3D7WpOG5KM8yWueBd8TLsNAetEJNF5iJmolaAKO3F8yzyVBQ==}
+  /eslint-plugin-react-hooks/4.3.0:
+    resolution: {integrity: sha512-XslZy0LnMn+84NEG9jSGR6eGqaZB3133L8xewQo3fQagbQuGt7a63gf+P1NGKZavEYEC3UXaWEAA/AqDkuN6xA==}
     engines: {node: '>=10'}
     peerDependencies:
-      eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0
+      eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0
     dev: false
 
   /eslint-plugin-react/7.22.0:
@@ -2372,6 +2372,7 @@ packages:
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
     deprecated: '"Please update to latest v2.3 or v2.2"'
+    requiresBuild: true
     dev: true
     optional: true
 
